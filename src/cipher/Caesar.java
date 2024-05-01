@@ -1,6 +1,6 @@
 package cipher;
 
-public class Caeser {
+public class Caesar {
     private static final String LOWERCASE = "abcdefghijklmnopqrstuvwxyz";
     private static final String UPPERCASE = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
